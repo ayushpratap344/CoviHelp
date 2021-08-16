@@ -7,5 +7,7 @@ Also used <br>
 
 COVID stats API : https://api.covid19india.org/ <br>
 Vaccine slot API (Get vaccination sessions by PIN for 7 days) : https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/calendarByPin <br>
+MapmyIndia API (Used for showing vaccine centres by Location) : http://www.mapmyindia.com/api <br>
+Sample CSS of MapmyIndia : https://maps.mapmyindia.com/covid-places/css/custom.css <br>
 
 
